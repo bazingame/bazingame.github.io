@@ -2,119 +2,119 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>golang on Bazinga&#39;s Blog</title>
-    <link>http://chown.xyz/tags/golang/</link>
+    <link>http://bazingame.github.io/tags/golang/</link>
     <description>Recent content in golang on Bazinga&#39;s Blog</description>
     <image>
-      <url>http://chown.xyz/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://chown.xyz/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://bazingame.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://bazingame.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 22 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://chown.xyz/tags/golang/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 22 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://bazingame.github.io/tags/golang/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>保护你的程序 sony/gobreaker</title>
-      <link>http://chown.xyz/posts/gobreaker/</link>
+      <link>http://bazingame.github.io/posts/gobreaker/</link>
       <pubDate>Mon, 22 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://chown.xyz/posts/gobreaker/</guid>
+      <guid>http://bazingame.github.io/posts/gobreaker/</guid>
       <description>保护你的程序 sony/gobreaker</description>
     </item>
     
     <item>
       <title>表达式解析器规则引擎库 — expr</title>
-      <link>http://chown.xyz/posts/expr/</link>
+      <link>http://bazingame.github.io/posts/expr/</link>
       <pubDate>Fri, 19 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://chown.xyz/posts/expr/</guid>
+      <guid>http://bazingame.github.io/posts/expr/</guid>
       <description>表达式解析器规则引擎库 — expr</description>
     </item>
     
     <item>
       <title>调试利器 go-spew</title>
-      <link>http://chown.xyz/posts/go-spew/</link>
+      <link>http://bazingame.github.io/posts/go-spew/</link>
       <pubDate>Sun, 24 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://chown.xyz/posts/go-spew/</guid>
+      <guid>http://bazingame.github.io/posts/go-spew/</guid>
       <description>调试利器 go-spew</description>
     </item>
     
     <item>
       <title>基于泛型的 Golang lodash 库 — samber/lo</title>
-      <link>http://chown.xyz/posts/samber-lo/</link>
+      <link>http://bazingame.github.io/posts/samber-lo/</link>
       <pubDate>Mon, 28 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://chown.xyz/posts/samber-lo/</guid>
+      <guid>http://bazingame.github.io/posts/samber-lo/</guid>
       <description>基于泛型的 Golang lodash 库 — samber/lo</description>
     </item>
     
     <item>
       <title>运行时替换 Golang 函数 — gohook</title>
-      <link>http://chown.xyz/posts/gohook/</link>
+      <link>http://bazingame.github.io/posts/gohook/</link>
       <pubDate>Sat, 19 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://chown.xyz/posts/gohook/</guid>
+      <guid>http://bazingame.github.io/posts/gohook/</guid>
       <description>运行时替换 Golang 函数 — gohook</description>
     </item>
     
     <item>
       <title>漏桶限流库 — uber-go/ratelimit</title>
-      <link>http://chown.xyz/posts/ratelimit/</link>
+      <link>http://bazingame.github.io/posts/ratelimit/</link>
       <pubDate>Fri, 03 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://chown.xyz/posts/ratelimit/</guid>
+      <guid>http://bazingame.github.io/posts/ratelimit/</guid>
       <description>漏桶限流库 — uber-go/ratelimit</description>
     </item>
     
     <item>
       <title>重试工具 — retry-go</title>
-      <link>http://chown.xyz/posts/retry/</link>
+      <link>http://bazingame.github.io/posts/retry/</link>
       <pubDate>Fri, 15 Oct 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://chown.xyz/posts/retry/</guid>
+      <guid>http://bazingame.github.io/posts/retry/</guid>
       <description>重试工具 — retry-go</description>
     </item>
     
     <item>
       <title>跨平台文件系统监控工具 — fsnotify</title>
-      <link>http://chown.xyz/posts/fsnotify/</link>
+      <link>http://bazingame.github.io/posts/fsnotify/</link>
       <pubDate>Mon, 30 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://chown.xyz/posts/fsnotify/</guid>
+      <guid>http://bazingame.github.io/posts/fsnotify/</guid>
       <description>跨平台文件系统监控工具 — fsnotify</description>
     </item>
     
     <item>
       <title>Golang 图片处理 — image 库</title>
-      <link>http://chown.xyz/posts/go-image/</link>
+      <link>http://bazingame.github.io/posts/go-image/</link>
       <pubDate>Tue, 10 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://chown.xyz/posts/go-image/</guid>
+      <guid>http://bazingame.github.io/posts/go-image/</guid>
       <description>Golang 图片处理 — image 库</description>
     </item>
     
     <item>
       <title>gogo/protobuf 的使用</title>
-      <link>http://chown.xyz/posts/gogo-protobuf/</link>
+      <link>http://bazingame.github.io/posts/gogo-protobuf/</link>
       <pubDate>Mon, 05 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://chown.xyz/posts/gogo-protobuf/</guid>
+      <guid>http://bazingame.github.io/posts/gogo-protobuf/</guid>
       <description>gogo/protobuf 的使用</description>
     </item>
     
     <item>
       <title>Golang 图片处理 — image 库</title>
-      <link>http://chown.xyz/posts/image/</link>
+      <link>http://bazingame.github.io/posts/image/</link>
       <pubDate>Fri, 02 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://chown.xyz/posts/image/</guid>
+      <guid>http://bazingame.github.io/posts/image/</guid>
       <description>Golang 图片处理 — image 库</description>
     </item>
     
     <item>
       <title>文本差异对比工具 go-diff</title>
-      <link>http://chown.xyz/posts/go-diff/</link>
+      <link>http://bazingame.github.io/posts/go-diff/</link>
       <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://chown.xyz/posts/go-diff/</guid>
+      <guid>http://bazingame.github.io/posts/go-diff/</guid>
       <description>Go-diff</description>
     </item>
     
